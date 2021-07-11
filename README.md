@@ -1,2 +1,4 @@
 # jdbc-java-master
-a java code made with jdbc wing and mysql 
+java app made with swing and JDBC MySql 
+location de voiture 
+
